@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'fdb76e37f93b1c45668b3dec40659e26',
 
-  PROVINCE: '云南省',
-  CITY: '永胜县',
+  PROVINCE: '云南',
+  CITY: '永胜',
 
   USERS: [
     {
